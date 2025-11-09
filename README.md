@@ -41,10 +41,10 @@ This project helped me enhance my data analysis, data handling, and Power BI vis
 
 ### Building the Power BI visual model (Data Analysis)
 
-#### Objective
+#### Objective:
 Develop modern visual dash board using Power BI to consolidate Student data, enabling analytical dash board and informed decision-making.
 
-#### Specifications
+#### Specifications:
 - **Data Sources**: Import data from two source systems provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: user-friendly data model designed for analytical queries.
