@@ -51,7 +51,3 @@ Develop modern visual dash board using Power BI to consolidate Student data, ena
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear dash board of the data model to support Institute management .
 
-## Description
-
-This project focuses on analyzing student data to understand their interest levels in the institute’s programs. It includes details of students who registered, attended demo sessions, and those who showed interest or declined to join.  
-
