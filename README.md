@@ -51,3 +51,8 @@ Develop modern visual dash board using Power BI to consolidate Student data, ena
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear dash board of the data model to support Institute management .
 
+---
+
+## About me
+
+Hi Amigos! I am **Hema Sundar** also known as Sundar HMT Tech
