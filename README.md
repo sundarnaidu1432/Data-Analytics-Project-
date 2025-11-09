@@ -10,7 +10,7 @@ Using Power BI, the data was cleaned, transformed, and visualized to build an in
 - Monthly enrollment trends and engagement rates
 - Gender-wise distribution and participation percentages.
 
-During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records.In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.  
+During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records. In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.  
 
 ### 🧹 Data Cleaning and Transformation:  
 **Changes made in Power Query to enhance data quality:**
