@@ -10,8 +10,11 @@ Using Power BI, the data was cleaned, transformed, and visualized to build an in
 - Monthly enrollment trends and engagement rates
 - Gender-wise distribution and participation percentages.
 
-During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records.In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.
-Changes made in power query to enhance the data quality.
+During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records.In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.  
+Several transformations were applied in Power Query to enhance the data quality and ensure accuracy.  
+These included correcting data types, handling missing values, replacing invalid entries, and standardizing date and text formats. 
+Such preprocessing steps improved the reliability of the dataset before building the Power BI dashboard.  
+Several DAX measures were created in Power BI to calculate key metrics such as total enrollments, demo participation rate, male-female percentage, and monthly trends.  
 This project helped me enhance my data analysis, data handling, and Power BI visualization skills. I learned to create various card visuals and analyze patterns effectively to generate meaningful insights.
 
 ---
