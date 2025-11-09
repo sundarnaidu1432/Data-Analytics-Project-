@@ -9,6 +9,9 @@ Using Power BI, the data was cleaned, transformed, and visualized to build an in
 - Students who were not interested in joining
 - Monthly enrollment trends and engagement rates
 - Gender-wise distribution and participation percentages
+During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records.In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.
+Changes made in power query to enhance the data quality.
+This project helped me enhance my data analysis, data handling, and Power BI visualization skills. I learned to create various card visuals and analyze patterns effectively to generate meaningful insights.
 
 ---
 
@@ -29,6 +32,4 @@ Develop modern visual dash board using Power BI to consolidate Student data, ena
 ## Description
 
 This project focuses on analyzing student data to understand their interest levels in the institute’s programs. It includes details of students who registered, attended demo sessions, and those who showed interest or declined to join.  
-During the project, I identified data quality issues in the Age column, where some values were incorrect. To maintain data accuracy, I replaced the invalid ages with nearest values based on records.In real life project Discussions made by the teammates and then take approval from Team head And Data engineer to made changes.  
-This project helped me enhance my data analysis, data handling, and Power BI visualization skills. I learned to create various card visuals and analyze patterns effectively to generate meaningful insights.
 
