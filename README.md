@@ -55,4 +55,4 @@ Develop modern visual dash board using Power BI to consolidate Student data, ena
 
 ## About me
 
-Hi Amigos! I am **Hema Sundar** also known as Sundar HMT Tech
+Hi Amigos! I am **Hema Sundar** also known as **Sundar HMT Tech**
