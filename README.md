@@ -45,7 +45,7 @@ This project helped me enhance my data analysis, data handling, and Power BI vis
 Develop modern visual dash board using Power BI to consolidate Student data, enabling analytical dash board and informed decision-making.
 
 #### Specifications:
-- **Data Sources**: Import data from two source systems provided as CSV files.
+- **Data Sources**: Import data from source systems provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
