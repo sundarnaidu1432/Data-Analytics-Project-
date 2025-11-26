@@ -1,4 +1,4 @@
-# Data Analytics Project
+# Student Enrollement Data Analysis Project
 
 Welcome to **Data Analytics Project** repository! 🚀  
 This project focuses on analyzing data of students enrolled in an institute to gain insights into registration trends, demo participation, and enrollment decisions. The dataset includes details such as student information, demo watched, and interest levels in joining the institute.
